@@ -45,7 +45,7 @@ Full stack developer | enthusiastic about open-source 🚀| Trainer | Traveller 
 <a href="https://www.linkedin.com/in/preeti-sharma-06271195/"><img src="https://img.shields.io/badge/-preeti%20sharma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmapr25" alt="sharmapr25" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shpr25" alt="shpr25" /></p>
 
 
 `Note`:This readme is based on: https://github.com/vivek9patel/vivek9patel
